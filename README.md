@@ -4,6 +4,8 @@ Welcome to the **Java Basics for Beginners** repository! This repository contain
 
 ## Table of Contents
 
+## Table of Contents
+
 1. [Hello World](src/HelloWorld.java)
 2. [Variables and Data Types](src/Variables.java)
 3. [If-Else Condition](src/IfElse.java)
@@ -15,6 +17,20 @@ Welcome to the **Java Basics for Beginners** repository! This repository contain
 9. [Constructor](src/ConstructorExample.java)
 10. [Inheritance](src/InheritanceExample.java)
 11. [Exception Handling](src/ExceptionHandling.java)
+12. [Switch Case Example](src/SwitchExample.java)
+13. [User Input](src/UserInputExample.java)
+14. [Do-While Loop](src/DoWhileLoop.java)
+15. [Recursion](src/RecursionExample.java)
+16. [String Manipulation](src/StringManipulation.java)
+17. [ArrayList Example](src/ArrayListExample.java)
+18. [HashMap Example](src/HashMapExample.java)
+19. [File Handling](src/FileHandling.java)
+20. [Simple Calculator](src/SimpleCalculator.java)
+21. [Basic Sorting](src/BubbleSort.java)
+22. [Interfaces](src/InterfaceExample.java)
+23. [Lambda Expressions](src/LambdaExample.java)
+24. [Multithreading](src/MultithreadingExample.java)
+25. [Basic GUI Application](src/BasicGUIExample.java)
 
 ## Getting Started
 
